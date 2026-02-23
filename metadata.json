@@ -1,0 +1,7 @@
+{
+  "name": "Nervous System Circuit Breaker Pro",
+  "description": "Evidence-based tools for autonomic regulation with AI-powered guided protocols, voice journaling, and personalized insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
